@@ -1,0 +1,33 @@
+1. A. O(1) - constant because golden retriever returns immediately
+   B. O(n) - linear because runtime depends on amount of people to ask
+
+2. O(1) - constant because same amount of operations regardless of input value
+
+3. O(n^2) - nested loop, runtimes grow rapidly with increase in input size
+
+4. O(n) - linear because runtime relative to array length
+
+5. O(n) - linear because runtime relative to array length 
+
+6. O(n^2) - nested loop, runtimes grow rapidly with increase in input size
+
+7. 0(n) - looping from 1 up to num, runtime relative to size of num
+
+8. O(log(n)) - takes a sorted array of int and an item value as arguments, returns the number of elements
+
+9. O(1) - the size of the input does not matter, will still take the same amount of time
+
+10. 0(n) - checks whether a number is prime, only goes through based on the input
+
+13-1. O(n)
+13-2. O(n)
+13-3. O(n)
+13-4. O(n)
+13-5. O(n)
+13-6. O(n)
+13-7. O(n)
+13-8. O(n)
+13-9. O(n)
+13-10. O(n!)
+13-11. O(n)
+13-12. O(log(n))
